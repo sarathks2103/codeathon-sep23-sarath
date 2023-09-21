@@ -22,3 +22,5 @@ function isValidIPAddress(ipAddress) {
   console.log(isValidIPAddress('255.255.0.0'));
     console.log(isValidIPAddress('555.555.555.555'));
     console.log(isValidIPAddress('256.255.0.0'));
+    console.log(isValidIPAddress('233.33.33.33'));
+    console.log(isValidIPAddress('24'));
