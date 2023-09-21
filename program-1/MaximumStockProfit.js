@@ -30,3 +30,8 @@ function findMaxProfit(prices) {
   }
   
   console.log(findMaxProfit([7,1,5,3,6,4]));
+    console.log(findMaxProfit([7,6,4,3,1]));
+    console.log(findMaxProfit([1,2,3,4,5]));
+    console.log(findMaxProfit([2,1,2,1,0,1,2]));
+    console.log(findMaxProfit([2,1,2,1,0,1,2]));
+    
